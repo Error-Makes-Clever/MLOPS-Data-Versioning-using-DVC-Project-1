@@ -1,0 +1,9 @@
+ipykernel
+dvc
+numpy
+pandas 
+matplotlib
+wordcloud
+nltk
+scikit-learn
+xgboost
