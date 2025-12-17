@@ -12,3 +12,7 @@
 2025-12-17 22:35:42,660 - Data_Ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Error-Makes-Clever/MLOPS-Data-Versioning-using-DVC-Project-1/refs/heads/main/Experiments/spam.csv
 2025-12-17 22:35:42,673 - Data_Ingestion - DEBUG - Data preprocessing completed
 2025-12-17 22:35:42,716 - Data_Ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-12-17 22:39:45,599 - Data_Ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-12-17 22:39:45,954 - Data_Ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Error-Makes-Clever/MLOPS-Data-Versioning-using-DVC-Project-1/refs/heads/main/Experiments/spam.csv
+2025-12-17 22:39:45,956 - Data_Ingestion - DEBUG - Data preprocessing completed
+2025-12-17 22:39:45,991 - Data_Ingestion - DEBUG - Train and test data saved to ./data\raw
