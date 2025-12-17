@@ -1,0 +1,3 @@
+2025-12-17 16:17:20,936 - Data_Ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/Error-Makes-Clever/MLOPS-Data-Versioning-using-DVC-Project-1/refs/heads/main/Experiments/spam.csv
+2025-12-17 16:17:20,938 - Data_Ingestion - DEBUG - Data preprocessing completed
+2025-12-17 16:17:20,981 - Data_Ingestion - DEBUG - Train and test data saved to ./data\raw
