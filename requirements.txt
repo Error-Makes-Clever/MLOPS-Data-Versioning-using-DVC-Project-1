@@ -9,3 +9,5 @@ scikit-learn
 xgboost
 pyyaml
 dvclive
+dvc[s3]
+awscli
